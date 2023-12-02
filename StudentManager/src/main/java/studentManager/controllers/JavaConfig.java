@@ -42,18 +42,4 @@ public class JavaConfig {
 		return studentDAOImpl;
 	}
 
-	@Bean("student")
-	public Student student() {
-
-		Student student = new Student();
-		student.setId(4);
-		student.setName("Saqib Khan");
-		student.setAddress("Lattishart Zaingeer");
-		student.setBranch("branch x");
-		student.setGender("Male");
-		student.setEmail("demoEmail@gmail.com");
-
-		return student;
-	}
-
 }
