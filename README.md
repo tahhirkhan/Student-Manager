@@ -56,7 +56,7 @@ This web application is built to streamline the management of student informatio
 #### 1. Clone the Repository:
 
 ```bash
-  git clone https://github.com/tahhirkhan/student-management-webapp.git
+  git clone [https://github.com/tahhirkhan/student-management-webapp.git](https://github.com/tahhirkhan/Student-Manager.git)
 ```
 #### 2. Database Setup:
    
