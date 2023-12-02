@@ -16,10 +16,10 @@ public class JavaConfig {
 
 		DriverManagerDataSource ds = new DriverManagerDataSource();
 
-		ds.setDriverClassName("org.postgresql.Driver");
-		ds.setUrl("jdbc:postgresql://localhost:5432/postgres");
-		ds.setUsername("postgres");
-		ds.setPassword("password");
+		ds.setDriverClassName("com.mysql.jdbc.Driver");
+		ds.setUrl("jdbc:mysql://localhost:5432/StudentsDB");
+		ds.setUsername("******");
+		ds.setPassword("******");
 
 		return ds;
 	}
