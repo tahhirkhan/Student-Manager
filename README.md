@@ -11,7 +11,6 @@ This web application is designed to manage student information using various mod
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
